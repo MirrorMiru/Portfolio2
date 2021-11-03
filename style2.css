@@ -1,0 +1,42 @@
+body{
+    background-image: url("bg.png");
+    background-size: 100% 400%;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color : #7BEAE7;
+    font-size: 30px;
+    font-family: vollkorn;
+    text-align: center;
+}
+
+a{
+    color : #12AB13;
+}
+
+.bacc{
+    color : red;
+    font-size: 25px;
+    margin-left: 930px;
+    outline: none;
+}
+
+p{
+    color : #7BEAE7;
+    font-size: 25px;
+    font-family: vollkorn;
+}
+
+.Nikolas{
+    display: flex;
+    justify-content: center;
+}
+
+.FindMe {
+    margin-top: 550px;
+}
+
+img:hover{
+    opacity:0.5;
+}
